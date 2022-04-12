@@ -1,0 +1,6 @@
+mkdir <project0408>
+cd <project0408>
+git init
+heroku login
+heroku create <project0408>
+heroku buildpacks:set heroku/nodejs
