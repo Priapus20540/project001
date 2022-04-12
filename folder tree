@@ -1,0 +1,7 @@
+|   indexhtml
+|   packagejson
+\---assets
+pattern-joker02.patt
+pattern-joker02.png
+scene.gltf
+scene.bin
